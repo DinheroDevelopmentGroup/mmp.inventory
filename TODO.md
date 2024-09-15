@@ -1,0 +1,7 @@
+- [x] Upstream (Server-side)
+  - [x] set_creative_slot
+- [ ] Downstream (Client-side)
+  - [ ] close_window
+  - [ ] open_window
+  - [ ] window_items
+  - [ ] set_slot
